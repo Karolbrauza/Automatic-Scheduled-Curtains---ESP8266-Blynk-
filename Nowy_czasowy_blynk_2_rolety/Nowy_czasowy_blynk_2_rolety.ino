@@ -22,7 +22,7 @@ uint8_t wire2 = D3;
 uint8_t wire3 = D2;
 uint8_t wire4 = D1;
 
-char auth[] = "token";
+char auth[] = "token1";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
